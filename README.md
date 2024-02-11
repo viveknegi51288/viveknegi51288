@@ -1,4 +1,10 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4D03AQFkonrdZC2TuQ/profile-displayphoto-shrink_800_800/0/1687799520186?e=1713398400&v=beta&t=YNfBOKoCrkbvPs2sfL-tnddKsfvg5mpFEeCOOy1XcRs">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4D03AQFkonrdZC2TuQ/profile-displayphoto-shrink_800_800/0/1687799520186?e=1713398400&v=beta&t=YNfBOKoCrkbvPs2sfL-tnddKsfvg5mpFEeCOOy1XcRs">
+ <img alt="vivek_negi" src="https://media.licdn.com/dms/image/D4D03AQFkonrdZC2TuQ/profile-displayphoto-shrink_800_800/0/1687799520186?e=1713398400&v=beta&t=YNfBOKoCrkbvPs2sfL-tnddKsfvg5mpFEeCOOy1XcRs">
+</picture>
+
+
 
 <!--
 **viveknegi51288/viveknegi51288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

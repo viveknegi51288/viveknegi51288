@@ -13,12 +13,7 @@ Experienced with core knowledge of software development lifecycle – from conce
 
 
 
-| Rank | Languages |
-|-----:|---------------|
-|     1|    Xamarin.Forms          |
-|     2|       C#        |
-|     3|         SQLite      |
-|     4|         Agile       |
+11+ years | Mobile Dev | .net MAUI | Xamarin | Mobile Lead | Currently exploring Flutter
 
 
 

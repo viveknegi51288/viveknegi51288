@@ -8,7 +8,7 @@
 
 ## About me
 
-Mobile application developer having 10+ years of experience. Developed more than 20+ apps using different platform tools like Xamarin forms, Xamarin Android and Native Android. 
+Mobile application developer having 11+ years of experience. Developed more than 20+ apps using different platform tools like Xamarin forms, Xamarin Android and Native Android. 
 Experienced with core knowledge of software development lifecycle – from concept through delivery of next-generation applications and customisable solutions. Experienced in end-to-end implementation and team management. Having experience on working onsite directly with the client.
 
 
